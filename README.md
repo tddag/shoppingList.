@@ -3,7 +3,7 @@ basic MERN stack app and Redux implementation
 
 # live Demo:     
 
-*https://safe-harbor-52400.herokuapp.com/*
+*https://td-shopping-list.herokuapp.com/*
 
 # Running locally: 
   - Clone the repository
